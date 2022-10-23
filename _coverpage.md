@@ -2,7 +2,7 @@
 
 ![icon](icon.ico)
 
-<p align="center" style="font-size:50px;color:black">西柚的校招笔记</p>
+<p align="center" style="font-size:50px;color:black">西柚的学习笔记</p>
 
 <!--  <p align="right" style="font-size:15px">它还有个名字叫做《逆袭进大厂》❤</p> -->
 <div align="center"> 
